@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ResultantTest</string>
+    <string name="no_data">No data</string>
+    <string name="update">Update</string>
+
+    <string name="error_title">Ooops</string>
+    <string name="error">An error has occurred</string>
+</resources>
